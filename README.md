@@ -3,6 +3,8 @@
 
 This is a basic calculator app created using Android Studio. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The app has a simple and user-friendly interface that allows users to input two numbers and select an operation to perform. The result is displayed on the screen after the user clicks the "Calculate" button.
 
+![image](https://user-images.githubusercontent.com/80875700/221030148-6f25e9a0-9263-44e1-b3f6-1f02ef6d6ccb.png)
+
 ## **Features**
 
 - Addition of two numbers
@@ -23,12 +25,14 @@ This is a basic calculator app created using Android Studio. It performs basic a
     
     ```
     bashCopy code
-    git clone https://github.com/[username]/basic-calculator-app.git
+    git clone https://github.com/vinayak-suneja/Calculator-App.git
     
     ```
-    
+  
 2. Open the project in Android Studio.
-3. Run the app on an Android device or emulator.
+3. Copy the main xml and java file code and paste it in the activity_main.xml and activity_main.java respectively
+4. Create new xml and java extention files with the given name or you can just copy paste it into the file.  
+5. Run the app on an Android device or emulator.
 
 ## **Usage**
 
