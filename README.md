@@ -3,7 +3,9 @@
 
 This is a basic calculator app created using Android Studio. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The app has a simple and user-friendly interface that allows users to input two numbers and select an operation to perform. The result is displayed on the screen after the user clicks the "Calculate" button.
 
-![image](https://user-images.githubusercontent.com/80875700/221033746-0e8ed274-60ff-4bfa-b2ca-9f8ead2ab0fb.png)
+![image](https://user-images.githubusercontent.com/80875700/221034587-c063c928-4830-4e01-ab3b-a056f5381338.png)
+
+
 
 
 ## **Features**
